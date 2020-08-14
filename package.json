@@ -15,7 +15,7 @@
     "react-query": "^2.5.14",
     "react-scripts": "3.4.2",
     "swr": "^0.3.0",
-    "typescript": "~3.7.2"
+    "typescript": "^3.9.7"
   },
   "scripts": {
     "start": "react-scripts start",
